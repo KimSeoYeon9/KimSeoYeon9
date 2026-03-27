@@ -1,5 +1,4 @@
 # 김서연 입니다
 
-## About me
-- 경북소프트웨어마이스터고 소프트웨어 개발과 인공지능 개발 코스
-- 관심사: AI, 머신러닝, 데이터 시각화
+## 기술스택
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/
