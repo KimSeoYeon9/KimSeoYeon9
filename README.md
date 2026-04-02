@@ -15,5 +15,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_yeon_0_0_kim)](https://solved.ac/seo_yeon_0_0_kim/)
+
 </div>
 
