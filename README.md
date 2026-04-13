@@ -18,4 +18,4 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_yeon_0_0_kim)](https://solved.ac/seo_yeon_0_0_kim/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_yeon_0_0_kim)](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_yeon_0_0_kim&v=2)
